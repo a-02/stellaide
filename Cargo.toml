@@ -1,0 +1,8 @@
+[package]
+name = "stellaide"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+enigo = "0.3.0"
+notify = "7.0.0"
